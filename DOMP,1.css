@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(97, 110, 110);
+
+}
+#bmi_result{
+    font-size: 1.3rem;
+}
+.row{
+    min-height: 90vh;
+}
+.col-4{
+    background-color: white;
+    border-radius:1rems ;
+    padding: 1.4rem 1.2rem;
+}
